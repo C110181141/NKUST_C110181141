@@ -1,7 +1,7 @@
-public class Comment {
+public class for_loop {
     public  static void main(String[] args){
-        //This is comment
-        //hi hi hi
-        //這是註解
+      for (int i = 0; i < 5; i++){
+          System.out.println(i);
+        }
     }
 }

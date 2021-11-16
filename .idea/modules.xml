@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NKUST.iml" filepath="$PROJECT_DIR$/NKUST.iml" />
-      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NKUST/untitled.iml" filepath="$PROJECT_DIR$/NKUST/untitled.iml" />
     </modules>
   </component>
 </project>
